@@ -229,7 +229,7 @@
         nav: true,
         navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
         dots: false,
-        autoplay: false,
+        autoplay: true,
         smartSpeed: 450,
         stopOnHover: true,
         animateIn: 'slideInRight',
