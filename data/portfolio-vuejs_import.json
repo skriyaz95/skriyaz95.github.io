@@ -1,0 +1,626 @@
+{
+  "bucket": {
+    "_id": "5f00bd777c62a200080e8faf",
+    "slug": "skriyaz95",
+    "title": "skriyaz95.github.io",
+    "object_types": [
+      {
+        "title": "portfolio-contents",
+        "slug": "portfolio-contents",
+        "singular": "portfolio-content",
+        "metafields": [],
+        "options": {
+          "slug_field": 1,
+          "content_editor": 1
+        },
+        "preview_link": "",
+        "priority_locale": null,
+        "extensions": null,
+        "order": 2
+      }
+    ],
+    "objects": [
+      {
+        "_id": "5f011c5b90e9e00007825ea8",
+        "order": 5,
+        "slug": "experiences",
+        "title": "experiences",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "text",
+            "title": "description",
+            "key": "description",
+            "id": "rab2gb3ikerouxtvpewn",
+            "value": "Professional and academic"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "title",
+            "key": "title",
+            "id": "drnw6zxqjxpxagtmntqc",
+            "value": "Experience"
+          },
+          {
+            "children": null,
+            "type": "json",
+            "title": "professional",
+            "key": "professional",
+            "id": "FtSwl0XI9C",
+            "value": [
+              {
+                "year": "03.2021 - Present",
+                "title": "Graduate Student Assistant - Developer, UF Department of Pathology and Bioinformatics",
+                "content": "Worked as a Software developer primarily responsible for building an automated genome sequence pipeline and deploying it on AWS"
+              },
+              {
+                "year": "01.2019 - 12.2020",
+                "title": "Associate Software Engineer – Full Stack Developer, JP Morgan Chase & Co",
+                "content": "Worked as a Full Stack Developer in Chase Auto Domain, responsible for building APIs and web applications for Chase Auto’s car-buying platform, E-Contracting platform"
+              },
+              {
+                "year": "07.2016 - 12.2018",
+                "title": "Technology Analyst – Full Stack Developer, JP Morgan Chase & Co",
+                "content": "Worked as a Full Stack Developer in Chase Auto Domain, responsible for building APIs, web applications, and automated batch jobs for Chase Auto’s Loan Management System"
+              }
+            ],
+            "required": true
+          },
+          {
+            "children": null,
+            "type": "json",
+            "title": "academic",
+            "key": "academic",
+            "id": "b2a969sy7g",
+            "value": [
+              {
+                "year": "01.2021 - Present",
+                "title": "Master of Science - Computer Science, University of Florida",
+                "content": "Relevant Courses – Advanced Data structures, Computer Networks, Database System Implementation, Distributed Operating Systems"
+              },
+              {
+                "year": "2019",
+                "title": "Certification",
+                "content": "AWS Certified Solutions Architect Associate (AWS-CSA)"
+              },
+              {
+                "year": "09.2012 - 06.2016",
+                "title": "Bachelor of Technology - Information Technology, Osmania University",
+                "content": "Relevant Courses – Data Structures, Design and Analysis of Algorithms, System Design, Web Technologies, Computer Organization and Micro Processors, Object Oriented Programming Using Java, Software Engineering, Operating Systems, Computer Networks, Distributed Systems, Middleware Technologies"
+              }
+            ],
+            "required": true
+          }
+        ],
+        "bucket": "5f00bd777c62a200080e8faf",
+        "type_slug": "portfolio-contents",
+        "created_at": "2020-07-05T00:18:35.583Z",
+        "created_by": "5f00bd137c62a200080e8fae",
+        "modified_at": "2020-07-05T17:32:57.155Z",
+        "created": "2020-07-05T00:18:35.583Z",
+        "user_id": "5f00bd137c62a200080e8fae",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2020-07-05T17:32:57.155Z",
+        "modified_by": "5f00bd137c62a200080e8fae",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "5f01fd8350006f00083229f5",
+        "order": 4,
+        "slug": "description",
+        "title": "description",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "text",
+            "title": "pres_second",
+            "key": "pres_second",
+            "id": "Igv3UdzOfX",
+            "value": "Skilled in building enterprise-based applications using Java, Restful API services, Microservices, and Spring Framework. Web development with frameworks like Angular, Vue.js. Well-versed with Database concepts and have worked with Relational Databases like Oracle, MySQL, and NoSQL databases like Cassandra. Strong knowledge of Agile Methodologies. Proficient in data structures and algorithms, SOLID principles, and Design patterns."
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "pres_first",
+            "key": "pres_first",
+            "id": "d6tIa0Bibt",
+            "value": "Master’s student in computer science with 4 and a half years of full-stack development experience and expertise in the Auto Finance domain. Demonstrated history of working in the financial services industry. Proficient in requirement gathering and end-to-end delivery ownership."
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "pres_title",
+            "key": "pres_title",
+            "id": "IqVCE1U7Qb",
+            "value": "Who am I ?"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "description",
+            "key": "description",
+            "id": "68UNnxOFq7",
+            "value": "Hope to know you after"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "title",
+            "key": "title",
+            "id": "OhyFWRR6Xn",
+            "value": "About Me"
+          }
+        ],
+        "bucket": "5f00bd777c62a200080e8faf",
+        "type_slug": "portfolio-contents",
+        "created_at": "2020-07-05T16:19:15.848Z",
+        "created_by": "5f00bd137c62a200080e8fae",
+        "modified_at": "2020-11-06T14:31:39.945Z",
+        "created": "2020-07-05T16:19:15.848Z",
+        "user_id": "5f00bd137c62a200080e8fae",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2020-11-06T14:31:39.945Z",
+        "modified_by": "5f00bd137c62a200080e8fae",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "5f01fee250006f00083229f7",
+        "order": 3,
+        "slug": "user-data",
+        "title": "user-data",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "text",
+            "title": "name",
+            "key": "name",
+            "id": "OEkbevb9ch",
+            "value": "Riyaz Shaik"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "status",
+            "key": "status",
+            "id": "NX8v723S0G",
+            "value": "Full-Stack Developer;Master's Student at the University of Florida;Actively seeking Summer 22' SWE internships"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "email",
+            "key": "email",
+            "id": "2VhiCIosBh",
+            "value": "riyaz.kvgb@gmail.com"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "phone",
+            "key": "phone",
+            "id": "zSqJFpvOeE",
+            "value": "+1 (352)-214-5677"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "city",
+            "key": "city",
+            "id": "eePnSPzpxY",
+            "value": "Gainesville, Florida"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "lang",
+            "key": "lang",
+            "id": "jh95I8Z7VB",
+            "value": "English, Urdu, Hindi, Telugu"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "photo",
+            "key": "photo",
+            "id": "D4LfrSKbrc",
+            "value": "photo.jpg"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "resume",
+            "key": "resume",
+            "id": "D4LfrSKbrc",
+            "value": "Shaik_Riyaz_Resume.pdf"
+          }
+        ],
+        "bucket": "5f00bd777c62a200080e8faf",
+        "type_slug": "portfolio-contents",
+        "created_at": "2020-07-05T16:25:06.834Z",
+        "created_by": "5f00bd137c62a200080e8fae",
+        "modified_at": "2020-07-05T20:33:36.208Z",
+        "created": "2020-07-05T16:25:06.834Z",
+        "user_id": "5f00bd137c62a200080e8fae",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2020-07-05T20:33:36.208Z",
+        "modified_by": "5f00bd137c62a200080e8fae",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "5f0204d6ea1bf90007ad680f",
+        "order": 2,
+        "slug": "links",
+        "title": "links",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "text",
+            "title": "facebook",
+            "key": "facebook",
+            "id": "gLDrzR50ta",
+            "value": "https://www.facebook.com/skriyaz25"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "linkedin",
+            "key": "linkedin",
+            "id": "qVc8Mh2S5A",
+            "value": "https://www.linkedin.com/in/skriyaz95/"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "github",
+            "key": "github",
+            "id": "NPDNo7uSc9",
+            "value": "https://github.com/skriyaz95"
+          }
+        ],
+        "bucket": "5f00bd777c62a200080e8faf",
+        "type_slug": "portfolio-contents",
+        "created_at": "2020-07-05T16:50:30.087Z",
+        "created_by": "5f00bd137c62a200080e8fae",
+        "modified_at": "2020-11-06T14:30:59.357Z",
+        "created": "2020-07-05T16:50:30.087Z",
+        "user_id": "5f00bd137c62a200080e8fae",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2020-11-06T14:30:59.357Z",
+        "modified_by": "5f00bd137c62a200080e8fae",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "5f02127c1b1b930007b5896c",
+        "order": 1,
+        "slug": "skills",
+        "title": "skills",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "json",
+            "title": "items",
+            "key": "items",
+            "id": "IEBchE5swc",
+            "value": [
+              {
+                "title": "Java",
+                "img": "java.png"
+              },
+              {
+                "title": "Python",
+                "img": "python.png"
+              },
+              {
+                "title": "SQL",
+                "img": "sql.png"
+              },
+              {
+                "title": "HTML",
+                "img": "html.png"
+              },
+              {
+                "title": "CSS",
+                "img": "css.png"
+              },
+              {
+                "title": "Bash",
+                "img": "bash.png"
+              },
+              {
+                "title": "Javascript",
+                "img": "javascript.png"
+              },
+              {
+                "title": "Git/Github",
+                "img": "Octocat.png"
+              },
+              {
+                "title": "Maven",
+                "img": "maven.png"
+              },
+              {
+                "title": "Pentaho",
+                "img": "pentaho.png"
+              },
+              {
+                "title": "Control-M",
+                "img": "control-m.png"
+              },
+              {
+                "title": "Splunk",
+                "img": "splunk.png"
+              },
+              {
+                "title": "Spring Framework",
+                "img": "spring.png"
+              },
+              {
+                "title": "Hibernate",
+                "img": "hibernate.png"
+              },
+              {
+                "title": "Docker",
+                "img": "docker.png"
+              },
+              {
+                "title": "Ionic",
+                "img": "ionic.png"
+              },
+              {
+                "title": "Laravel",
+                "img": "laravel.png"
+              },
+              {
+                "title": "Django",
+                "img": "django.png"
+              },
+              {
+                "title": "Oracle",
+                "img": "oracle.png"
+              },
+              {
+                "title": "Mysql",
+                "img": "mysql.png"
+              },
+              {
+                "title": "Mariadb",
+                "img": "mariadb.png"
+              },
+              {
+                "title": "Cassandra",
+                "img": "cassandra.png"
+              },
+              {
+                "title": "Angular",
+                "img": "angular.png"
+              },
+              {
+                "title": "VueJS",
+                "img": "vuejs.png"
+              },
+              {
+                "title": "Bootstrap",
+                "img": "bootstrap.png"
+              },
+              {
+                "title": "JUnit",
+                "img": "junit.png"
+              },
+              {
+                "title": "Mockito",
+                "img": "mockito.png"
+              },
+              {
+                "title": "Selenium",
+                "img": "selenium.png"
+              },
+              {
+                "title": "Cucumber",
+                "img": "cucumber.png"
+              },
+              {
+                "title": "Jasmine",
+                "img": "jasmine.png"
+              },
+              {
+                "title": "Karma",
+                "img": "karma.png"
+              },
+              {
+                "title": "Linux",
+                "img": "linux.png"
+              },
+              {
+                "title": "AWS",
+                "img": "aws.png"
+              },
+              {
+                "title": "Pivotal Cloud Foundry",
+                "img": "pcf.png"
+              },
+              {
+                "title": "Apache Kafka",
+                "img": "kafka.png"
+              },
+              {
+                "title": "IBM MQ",
+                "img": "mq.png"
+              }
+            ]
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "title",
+            "key": "title",
+            "id": "YtRf42YCsn",
+            "value": "Skills"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "description",
+            "key": "description",
+            "id": "QTsdJU1QcF",
+            "value": "Here is my armament"
+          }
+        ],
+        "bucket": "5f00bd777c62a200080e8faf",
+        "type_slug": "portfolio-contents",
+        "created_at": "2020-07-05T17:48:44.602Z",
+        "created_by": "5f00bd137c62a200080e8fae",
+        "modified_at": "2020-11-06T13:55:46.187Z",
+        "created": "2020-07-05T17:48:44.602Z",
+        "user_id": "5f00bd137c62a200080e8fae",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2020-11-06T13:55:46.187Z",
+        "modified_by": "5f00bd137c62a200080e8fae",
+        "publish_at": null,
+        "unpublish_at": null
+      },
+      {
+        "_id": "5f023635b7e93b000741a246",
+        "order": 0,
+        "slug": "projects",
+        "title": "projects",
+        "content": "",
+        "metafields": [
+          {
+            "children": null,
+            "type": "json",
+            "title": "items",
+            "key": "items",
+            "id": "nPhh7RXJaN",
+            "value": [
+              {
+                "title": "P2P File Sharing Application",
+                "content": "Implemented a BitTorrent-like protocol to build a peer-to-peer file sharing application using Java with Choke/Unchoke mechanisms.<br><br>Technologies used: Java<br><br>Link : <a href='https://github.com/skriyaz95/p2p-file-sharing'>https://github.com/skriyaz95/p2p-file-sharing</a>",
+                "link": "https://github.com/skriyaz95/p2p-file-sharing",
+                "image": "p2p.jpg",
+                "tag": "Application",
+                "color": "blue",
+                "date": "2021-05-02"
+              },
+              {
+                "title": "Gene Target Inspector",
+                "content": "GTI makes it easy to search for genes across multiple institution gene panels.<br><br>Technologies used: Vue.js<br><br>Link : <a href='https://github.com/skriyaz95/goal-gene-panel-search'>https://github.com/skriyaz95/goal-gene-panel-search</a>",
+                "link": "https://github.com/skriyaz95/goal-gene-panel-search",
+                "image": "gti.png",
+                "tag": "Website",
+                "color": "green",
+                "date": "2021-08-10"
+              },
+              {
+                "title": "Facial Recognition Using AWS",
+                "content": "Built an android, web application that maps, analyzes, and then confirms the identity of a face in a photograph.<br><br>Technologies used: Java, Spring boot, Angular, AWS Rekognition, AWS S3, AWS Lambda, AWS SNS, Amazon RDS, Android<br><br>Link : <a href='https://github.com/skriyaz95/facial-recognition-using-aws'>https://github.com/skriyaz95/facial-recognition-using-aws</a>",
+                "link": "https://github.com/skriyaz95/facial-recognition-using-aws",
+                "image": "face-rec.jpg",
+                "tag": "Application",
+                "color": "blue",
+                "date": "2018-07-28"
+              },
+              {
+                "title": "Car Damage Detection using Google Cloud Vision API",
+                "content": "Trained a Google Cloud Vision model which detects car damage in accident including components and created API on top of it. Built a web application which uses the above exposed API and estimates percentage of car component damaged.<br><br>Technologies used: Java, Spring boot, HTML, JavaScript, Google Cloud Platform<br><br>Link : <a href='https://github.com/skriyaz95/car-damage-detection-using-google-cloud-vision-api'>https://github.com/skriyaz95/car-damage-detection-using-google-cloud-vision-api</a>",
+                "link": "https://github.com/skriyaz95/car-damage-detection-using-google-cloud-vision-api",
+                "image": "car-damage-detection.jpg",
+                "tag": "Website",
+                "color": "green",
+                "date": "2020-06-17"
+              },
+              {
+                "title": "I and Eye Audio Book Repository",
+                "content": "Built an audio book repository application (web and android) for the visually impaired students to download audio books and study from their personal devices.<br><br>Technologies used: Java, Spring boot, Angular JS, Ionic, Android, MySQL",
+                "image": "audio-book.png",
+                "tag": "Application",
+                "color": "blue",
+                "date": "2020-01-20"
+              },
+              {
+                "title": "Data Lineage",
+                "content": "Designed and built web application which analyzed SQL Query and extracted the flow of data between tables and display information graphically using d3.js.<br><br>Technologies used: Java, HTML, JavaScript, d3.js, Cassandra<br><br>Link : <a href='https://github.com/skriyaz95/Data_Lineage'>https://github.com/skriyaz95/Data_Lineage</a>",
+                "link": "https://github.com/skriyaz95/Data_Lineage",
+                "image": "data-lineage.jpg",
+                "tag": "Website",
+                "color": "green",
+                "date": "2016-05-08"
+              },
+              {
+                "title": "Forum Application Using Laravel",
+                "content": "Forum web application using Laravel framework which houses large communities of internet users that gather and participate in discussions based around a common interest, theme or profession.<br><br>Technologies used: HTML, JavaScript, PHP, Laravel, MySQL<br><br>Link : <a href='https://github.com/skriyaz95/Data_Lineage'>https://github.com/skriyaz95/Data_Lineage</a>",
+                "link": "https://github.com/skriyaz95/Data_Lineage",
+                "image": "p-2.png",
+                "tag": "Website",
+                "color": "green",
+                "date": "2014-09-15"
+              }
+            ]
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "title",
+            "key": "title",
+            "id": "Di7UyvvoeZ",
+            "value": "My projects"
+          },
+          {
+            "children": null,
+            "type": "text",
+            "title": "description",
+            "key": "description",
+            "id": "Cc6brPtb2p",
+            "value": "This is my story"
+          }
+        ],
+        "bucket": "5f00bd777c62a200080e8faf",
+        "type_slug": "portfolio-contents",
+        "created_at": "2020-07-05T20:21:09.882Z",
+        "created_by": "5f00bd137c62a200080e8fae",
+        "modified_at": "2020-11-09T10:16:41.986Z",
+        "created": "2020-07-05T20:21:09.882Z",
+        "user_id": "5f00bd137c62a200080e8fae",
+        "options": {
+          "content_editor": 1,
+          "slug_field": 1
+        },
+        "status": "published",
+        "published_at": "2020-11-09T10:16:41.986Z",
+        "modified_by": "5f00bd137c62a200080e8fae",
+        "publish_at": null,
+        "unpublish_at": null
+      }
+    ],
+    "media": []
+  }
+}
