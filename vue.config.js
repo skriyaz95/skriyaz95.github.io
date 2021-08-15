@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/'
+  publicPath: '/',
   chainWebpack: config => {
     config.module
         .rule("/\\.(jpg|JPG|png|gif|svg|pdf)$/")
