@@ -51,7 +51,12 @@
             "id": "FtSwl0XI9C",
             "value": [
               {
-                "year": "03.2021 - Present",
+                "year": "06.2022 - 08.2022",
+                "title": "Intern - Software Developer, World Fuel Services",
+                "content": "Worked as a Software developer intern primarily responsible for migrating mule services to java"
+              },
+              {
+                "year": "03.2021 - 04.2022",
                 "title": "Graduate Student Assistant - Developer, UF Department of Pathology and Bioinformatics",
                 "content": "Worked as a Software developer primarily responsible for building an automated genome sequence pipeline and deploying it on AWS"
               },
@@ -76,9 +81,9 @@
             "id": "b2a969sy7g",
             "value": [
               {
-                "year": "01.2021 - Present",
+                "year": "01.2021 - 08.2022",
                 "title": "Master of Science - Computer Science, University of Florida",
-                "content": "Relevant Courses – Advanced Data structures, Computer Networks, Database System Implementation, Distributed Operating Systems"
+                "content": "Relevant Courses – Analysis of Algorithms, Advanced Data structures, Computer Networks, Database System Implementation, Distributed Operating Systems, Software Engineering, Blockchain"
               },
               {
                 "year": "2019",
@@ -197,7 +202,7 @@
             "title": "status",
             "key": "status",
             "id": "NX8v723S0G",
-            "value": "Full-Stack Developer;Master's Student at the University of Florida;Actively seeking Summer 22' SWE internships"
+            "value": "Full-Stack Developer;Master's Student at the University of Florida"
           },
           {
             "children": null,
